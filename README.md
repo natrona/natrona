@@ -84,4 +84,4 @@ Descrição concisa do projeto, tecnologias utilizadas e propósito.
 
 ## Visitas ao Perfil
 
-![Contador de visitas](https://komarev.com/ghpvc/?username=[SEUUSERNAME]&label=Visualizações&color=0e75b6&style=flat)
+![Contador de visitas](https://komarev.com/ghpvc/?username=natrona&label=Visualizações&color=0e75b6&style=flat)
