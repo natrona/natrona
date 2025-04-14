@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [SEU NOME]!
+# 👋 Olá, eu sou Ruše!
 
 ![Banner](https://caminho/para/seu/banner.gif) *(adicione um link para um banner personalizado ou GIF animado)*
 
