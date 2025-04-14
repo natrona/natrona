@@ -48,9 +48,9 @@ Desenvolvedor full-stack com 5 anos de experiência em desenvolvimento web e mob
 
 <div align="center">
   
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=rushedev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rushedev&layout=compact&theme=dark&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushedev&theme=dark&hide_border=true)  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=natrona&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=natrona&layout=compact&theme=dark&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=natrona&theme=dark&hide_border=true)  
 
 </div>
 
@@ -70,8 +70,8 @@ Solução de autenticação segura com múltiplos fatores.
 
 ## Contribuições Recentes
 
-[![Repo Auth](https://github-readme-stats.vercel.app/api/pin/?username=rushedev&repo=secureauth&theme=dark)](https://github.com/rushedev/secureauth)
-[![Repo Arch Config](https://github-readme-stats.vercel.app/api/pin/?username=rushedev&repo=arch-config&theme=dark)](https://github.com/rushedev/arch-config)
+[![Repo Auth](https://github-readme-stats.vercel.app/api/pin/?username=natrona&repo=secureauth&theme=dark)](https://github.com/rushedev/secureauth)
+[![Repo Arch Config](https://github-readme-stats.vercel.app/api/pin/?username=natrona&repo=arch-config&theme=dark)](https://github.com/rushedev/arch-config)
 
 ## Certificações
 
