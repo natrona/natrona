@@ -1,6 +1,11 @@
 # Ruše - Desenvolvedor Full-Stack
 
-![Banner de perfil](https://raw.githubusercontent.com/[SEUUSERNAME]/[SEUUSERNAME]/main/assets/banner.png)
+<div align="center">
+  <video width="100%" autoplay loop muted>
+    <source src="https://github.com/natrona/natrona/blob/main/pinterest__1736977034089_1080x1350.mp4" type="video/mp4">
+    Seu navegador não suporta vídeos HTML5.
+  </video>
+</div>
 
 ## Sobre Mim
 
@@ -84,4 +89,4 @@ Descrição concisa do projeto, tecnologias utilizadas e propósito.
 
 ## Visitas ao Perfil
 
-![Contador de visitas](https://komarev.com/ghpvc/?username=natrona&label=Visualizações&color=0e75b6&style=flat)
+![Contador de visitas](https://komarev.com/ghpvc/?username=[SEUUSERNAME]&label=Visualizações&color=0e75b6&style=flat)
